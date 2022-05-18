@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 </div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=qingfeng&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=happymaya&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ## Welcome
 
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 我的博客：
 
-- [快乐码呀-happymaya](https://happymaya.github.io)
+- [快乐码呀-happymaya](https://blog.happymaya.cn)
 
 我的技术栈：
 - Dubhe：Java，Servlet/JSP，Spring 系列，MyBatis/MyBatis Plus，Hibernate ...
