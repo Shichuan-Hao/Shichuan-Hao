@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 我的博客：
 
-- [快乐码呀-happymaya](https://blog.happymaya.cn)
+- [快乐码呀-happymaya](https://happymaya.github.io)
 
 我的技术栈：
 - Dubhe：Java，Servlet/JSP，Spring 系列，MyBatis/MyBatis Plus，Hibernate ...
