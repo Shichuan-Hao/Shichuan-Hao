@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <div>
 <p align="center">
     <a href="https://blog.happyamay.cn" target="_blank" rel="noopener noreferrer">
-        <img src="https://images.happymaya.cn/assert/avatar/logo.png" alt="logo" width="150px"/>
+        <img src="https://images.happymaya.cn/assert/avatar/logo-nobg-1.png" alt="logo" width="150px"/>
     </a>
 </p>
 </div>
