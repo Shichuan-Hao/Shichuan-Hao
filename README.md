@@ -28,22 +28,7 @@ Here are some ideas to get you started:
 ## Welcome
 
 > 🍵 **只要思想不滑坡，办法总比困难多**
+> 🍵 **日拱一卒无有尽 功不唐捐终入海**
 
 我的博客：
-
-- [快乐码呀-happymaya](https://blog.happymaya.cn)
-
-我的技术栈：
-- Dubhe：Java，Servlet/JSP，Spring 系列，MyBatis/MyBatis Plus，Hibernate ...
-- Merak：Docker，Kubernetes，DevOps ...
-- Phecda：MySQL, Redis, Elastic Stack ...
-- Alkaid：HTML, CSS, JavaScript, VUE ...
-<!-- - Megrez：
-  - Alioth： -->
-<!-- - Mizar： -->
-<!-- - Alcor：Python -->
-<!-- - Alkaid -->
-<!-- - Merak：
-  - Golang
-- Phecda:
-  - Python -->
+- [ThinkerWalker](https://maya.happymaya.cn/)
