@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 <div>
 <p align="center">
     <a href="https://blog.happyamay.cn" target="_blank" rel="noopener noreferrer">
-        <img src="https://images.happymaya.cn/assert/avatar/logo-nobg-1.png" alt="logo" width="150px"/>
+        <img src="https://maxpixelton.github.io/images/assert/avatar/logo-nobg-1.png" alt="logo" width="150px"/>
     </a>
 </p>
 </div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=happymaya&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=maxpixelton&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ## Welcome
 
