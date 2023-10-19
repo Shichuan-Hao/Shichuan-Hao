@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div>
 <p align="center">
-    <a href="https://blog.happyamay.cn" target="_blank" rel="noopener noreferrer">
+    <a href="https://maxpixelton.github.io/" target="_blank" rel="noopener noreferrer">
         <img src="https://maxpixelton.github.io/images/assert/avatar/logo-nobg-1.png" alt="logo" width="150px"/>
     </a>
 </p>
