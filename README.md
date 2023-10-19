@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 🍵 **日拱一卒 功不唐捐**
 
 博客：
-- [https://maxpixelton.github.io](https://maxpixelton.github.io/)
+- [https://maxpixelton.github.io](https://maxpixelton.github.io)
 - [https://www.yuque.com/maxpixelton](https://www.yuque.com/maxpixelton)
