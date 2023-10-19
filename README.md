@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 🍵 **日拱一卒 功不唐捐**
 
 博客：
-- [ThinkerWalker](https://maya.happymaya.cn/)](https://maxpixelton.github.io/)
-- [语雀](https://www.yuque.com/maxpixelton)](https://www.yuque.com/maxpixelton)
+- [https://maxpixelton.github.io](https://maxpixelton.github.io/)
+- [https://www.yuque.com/maxpixelton](https://www.yuque.com/maxpixelton)
