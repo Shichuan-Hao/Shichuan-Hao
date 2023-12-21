@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 
 <div>
 <p align="center">
-    <a href="https://maxpixelton.github.io/" target="_blank" rel="noopener noreferrer">
-        <img src="https://maxpixelton.github.io/images/assert/avatar/logo-nobg-1.png" alt="logo" width="150px"/>
+    <a href="https://Shichuan-Hao.github.io/" target="_blank" rel="noopener noreferrer">
+        <img src="https://Shichuan-Hao.github.io/images/assert/avatar/logo-nobg-1.png" alt="logo" width="150px"/>
     </a>
 </p>
 </div>
