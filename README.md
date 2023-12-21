@@ -23,7 +23,7 @@ Here are some ideas to get you started:
     </a>
 </p>
 </div>
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=maxpixelton&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Shichuan-Hao&show_icons=true&icon_color=805AD5&text_color=718096&bg_color=ffffff&hide_title=true" />
 
 ## Welcome
 
@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 🍵 **日拱一卒 功不唐捐**
 
 博客：
-- [https://maxpixelton.github.io](https://maxpixelton.github.io)
+- [https://Shichuan-Hao.github.io](https://maxpixelton.github.io)
 - [https://www.yuque.com/maxpixelton](https://www.yuque.com/maxpixelton)
